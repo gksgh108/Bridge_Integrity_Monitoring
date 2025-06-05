@@ -82,7 +82,8 @@
 
 설치 방법:
 ```bash
-pip install streamlit hdbscan pickle altair scipy```
+pip install streamlit hdbscan pickle altair scipy
+```
 
 ---
 
@@ -97,7 +98,8 @@ RUL_predict.ipynb 파일을 Jupyter Notebook 또는 Jupyter Lab에서 열어 순
 프로젝트의 streamlit 폴더가 있는 상위 디렉토리로 이동합니다. (예: cd /path/to/your/project)
 다음 명령어를 입력하여 Streamlit 앱을 실행합니다:
 ```bash
-streamlit run streamlit/app.py```
+streamlit run streamlit/app.py
+```
 
 명령어 실행 후, 자동으로 웹 브라우저가 열리면서 대시보드가 나타납니다.
 대시보드의 사이드바를 이용하여 각 분석 단계 (소개, 데이터 로드, 수치해석, 데이터 전처리, 모델 예측, 이상감지)로 이동하며 실행하면 됩니다.

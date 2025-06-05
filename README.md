@@ -94,7 +94,7 @@ pip install streamlit hdbscan pickle altair scipy
 프로젝트의 streamlit 폴더가 있는 상위 디렉토리로 이동합니다. (예: cd /path/to/your/project)
 다음 명령어를 입력하여 Streamlit 앱을 실행합니다:
 ```bash
-streamlit run streamlit/app.py
+streamlit run streamlit/main.py
 ```
 
 명령어 실행 후, 자동으로 웹 브라우저가 열리면서 대시보드가 나타납니다.
